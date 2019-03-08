@@ -1,0 +1,23 @@
+tiles:
+-
+  name: "explore"
+  url: "https://fb.home"
+  img: "logos/fb.svg"
+  tags: ["favorite"]
+-
+  name: "command"
+  url: "https://term.home"
+  img: "logos/terminal.png"
+  tags: ["favorite"]
+-
+  name: "launch"
+  url: "https://dui.home"
+  img: "logos/dui.png"
+  bg_color: "#3F51B5"
+  tags: ["favorite"]
+-
+  name: "monitor"
+  url: "https://traefik.home"
+  img: "logos/traefik.svg"
+  tags: ["favorite"]
+
