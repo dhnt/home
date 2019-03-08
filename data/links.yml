@@ -1,23 +1,23 @@
 tiles:
 -
   name: "explore"
-  url: "https://fb.home"
+  url: "https://fb.home.m3"
   img: "logos/fb.svg"
   tags: ["favorite"]
 -
   name: "command"
-  url: "https://term.home"
+  url: "https://term.home.m3"
   img: "logos/terminal.png"
   tags: ["favorite"]
 -
   name: "launch"
-  url: "https://dui.home"
+  url: "https://dui.home.m3"
   img: "logos/dui.png"
   bg_color: "#3F51B5"
   tags: ["favorite"]
 -
   name: "monitor"
-  url: "https://traefik.home"
+  url: "https://traefik.home.m3"
   img: "logos/traefik.svg"
   tags: ["favorite"]
 

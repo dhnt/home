@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://home/"
 languageCode = "en-us"
-title = "slate theme demo"
+title = "M3 OS"
 theme = "slate"
 
 #publishDir = "docs"
