@@ -20,4 +20,10 @@ tiles:
   url: "https://traefik.home.m3"
   img: "logos/traefik.svg"
   tags: ["favorite"]
+-
+  name: "p2p"
+  url: "https://ipfs.home.m3/webui/"
+  img: "logos/ipfs.svg"
+  bg_color: "#0b3a53"
+  tags: ["favorite"]
 
